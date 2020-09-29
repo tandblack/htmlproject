@@ -1,0 +1,171 @@
+html,body,p,div,h1,h2   {
+    margin: 0; padding: 0;
+    color: white;
+}
+#mainbody  {
+    height: 700px;
+    width: 100%;
+    background-image: url(htmlprojectassets/green-vegetables-on-brown-wooden-chopping-board-3952047.jpg);
+    background-position: center;
+    background-color: gray;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#overlay    {
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+#mainbody2  {
+    height: 900px;
+    width: 100%;
+    background-color: black;
+}
+#navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    margin-bottom: -5px;
+}
+.navbar2    {
+    margin-right: 5%;
+}
+.navspan {
+    color: white;
+    margin-left: 5%;
+    font-size: larger;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 10px;
+    font-weight: 100;
+}
+.hr1  {
+    width: 90%;
+    color: white;
+    border-width: 1px;
+}
+h1  {
+    color: white;
+    font-size: 275%;
+    font-weight: 500;
+}
+.header {
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-family: 'Roboto', sans-serif;
+    font-size: xx-large;
+    font-weight: 400;
+}
+.moreflex   {
+    display: flex;
+    align-items: flex-start;
+}
+span    {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    align-items: center;
+}
+#spanparent {
+    display: flex;
+    justify-content: center;
+    font-size: 275%;
+}
+#section1   {
+    height: 42%;
+    width: 100%;
+    display: flex;
+}
+#section2   {
+    height: 58%;
+    width: 100%;
+    display: flex;
+}
+#section3   {
+    height: 40%;
+    width: 100%;
+    background-color: rgb(37, 37, 37);
+    display: flex;
+}
+#breadcontainer  {
+    height: 100%;
+    width: 40%;
+}
+#pineapplecontainer {
+    height: 100%;
+    width: 40%;
+}
+#pastacontainer {
+    height: 100%;
+    width: 40%;
+}
+.bread {
+    height: 100%;
+    width: 100%;
+}
+.pineapple  {
+    height: 100%;
+    width: 100%;
+}
+.pasta  {
+    height: 100%;
+    width: 100%;
+}
+#paragraph  {
+    height: 100%;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+#paragraph2 {
+    height: 100%;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+#paragraph3 {
+    height: 100%;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+#paragraph p {
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+#paragraph2 p   {
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+#paragraph3 p   {
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+#paragraph h2  {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+#paragraph2 h2  {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+#paragraph3 h2  {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
